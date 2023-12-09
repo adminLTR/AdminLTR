@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hello! I'm Luis La Torre (LuisLT) 👋
 
+- Welcome to my github account
+- I'm a Software Engineering student at UNMSM - Peru
+
+## Languages
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LTprograms&layout=compact&theme=dark&hide=Procfile)
 <!--
 **LTprograms/LTprograms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
