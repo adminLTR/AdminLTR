@@ -10,21 +10,8 @@ I'm a Software Engineering student at UNMSM - Peru willing to grow up in tech, m
 - Java swing
 <br/>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Django-green?logo=django&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-blue?logo=tailwindcss&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Arduino-%231BBD94?logo=arduino&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Jquery-blue?logo=jquery&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/SQL-black?logo=mysql&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/Django-green?logo=django&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-blue?logo=tailwindcss&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/Arduino-%231BBD94?logo=arduino&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/Jquery-blue?logo=jquery&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/SQL-black?logo=mysql&logoColor=white">
 
 
 
