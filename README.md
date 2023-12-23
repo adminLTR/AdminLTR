@@ -18,6 +18,8 @@ I speak also some languages such as:
 - Italian (B2)
 - Portuguese (B2)
 - German (A1)
+
+<img sre="https://drive.google.com/file/d/1uYoc1yLemBqNlBQrNivqlNyvDV5ZgCPp/view?usp=sharing"/>
 <!--
 **LTprograms/LTprograms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
