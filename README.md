@@ -19,7 +19,7 @@ I speak also some languages such as:
 - Portuguese (B2)
 - German (A1)
 
-<img sre="https://drive.google.com/file/d/1uYoc1yLemBqNlBQrNivqlNyvDV5ZgCPp/view?usp=sharing"/>
+<img sre="https://drive.google.com/file/d/1uYoc1yLemBqNlBQrNivqlNyvDV5ZgCPp/view?usp=sharing](https://res.cloudinary.com/dtgzce5jh/image/upload/v1703349512/CV-_ingl%C3%A9s_1_xeyvss.png"/>
 <!--
 **LTprograms/LTprograms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
