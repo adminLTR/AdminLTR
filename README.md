@@ -18,10 +18,10 @@ I speak also some languages such as:
 - Italian (B2)
 - Portuguese (B2)
 - German (A1)
-
+<!--
 ## My CV
 <img src="https://res.cloudinary.com/dtgzce5jh/image/upload/v1703349512/CV-_ingl%C3%A9s_1_xeyvss.png"/>
-<!--
+
 **LTprograms/LTprograms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
