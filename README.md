@@ -1,6 +1,6 @@
 ## Hello! I'm Luis La Torre (LuisLT) 👋
 ### Welcome to my github profile
-I'm a Software Engineering student at UNMSM - Peru willing to grow up in tech, my name is Luis La Torre and I'm pleased to help if you need me
+Young  student interested in growing up in IoT development. I got also solid knowledge in frontend and backend, as well as mobile development technologies.
 
 ## Technologies
 
