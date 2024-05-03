@@ -9,7 +9,7 @@ Young  student interested in growing up in IoT development. I got also solid kno
 
 
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LTprograms&layout=compact&theme=dark&hide=Procfile)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdminLTR&layout=compact&theme=dark&hide=Procfile)
 
 ## Languages
 I speak also some languages such as:
