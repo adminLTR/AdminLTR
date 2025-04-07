@@ -11,7 +11,7 @@ You can visit my <a target="_blank" href="https://adminltr.github.io/">personal 
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adminLTR&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=AdminLTR&layout=compact&theme=dark&hide=Procfile"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Williamz21&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div align="center">
