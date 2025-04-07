@@ -33,9 +33,6 @@ You can visit my <a target="_blank" href="https://adminltr.github.io/">personal 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adminLTR&layout=compact&langs_count=7&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adminLTR&show_icons=true&theme=dark"/>
 </div>
-<br/>
-<div align="center">
-</div>
 
 ## Languages
 <div align="start">
