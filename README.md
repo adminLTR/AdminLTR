@@ -10,12 +10,12 @@ You can visit my <a target="_blank" href="https://adminltr.github.io/">personal 
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/Arduino-%231BBD94?logo=arduino&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/Jquery-blue?logo=jquery&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/SQL-black?logo=mysql&logoColor=white">
 
 
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdminLTR&layout=compact&theme=dark&hide=Procfile)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adminLTR&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=AdminLTR&layout=compact&theme=dark&hide=Procfile"/>
+</div>
 
 <div align="center">
-  <a href="https://github.com/adminLTR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adminLTR&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adminLTR&show_icons=true&theme=dark"/>
 </div>
 
 ## Languages
