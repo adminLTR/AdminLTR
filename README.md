@@ -38,7 +38,7 @@ You can visit my <a target="_blank" href="https://adminltr.github.io/">personal 
 </div>
 
 ## Languages
-<div align="center">
+<div align="start">
   <img width="48" height="48" src="https://img.icons8.com/color/48/spain2-circular.png" alt="spain2-circular"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/great-britain-circular.png" alt="great-britain-circular"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/italy-circular.png" alt="italy-circular"/>
