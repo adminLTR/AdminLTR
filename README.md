@@ -1,5 +1,5 @@
-![AdminLTR](./logo.png)
-## Hi! I'm Luis La Torre 👋
+<img src="./logo.png" align="center"/>
+<h1 align="center">Hi! I'm Luis La Torre 👋</h1>
 ### Welcome to my profile
 👨‍💻 Software Engineering Student | Passionate about Full Stack Development, IoT, and Mobile Development. Continuously exploring and building innovative solutions. Let's create something amazing together!
 You can visit my <a target="_blank" href="https://adminltr.github.io/">personal site</a>
@@ -11,9 +11,9 @@ You can visit my <a target="_blank" href="https://adminltr.github.io/">personal 
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Williamz21&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adminLTR&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+<br/>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adminLTR&show_icons=true&theme=dark"/>
 </div>
