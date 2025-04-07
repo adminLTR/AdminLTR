@@ -28,6 +28,7 @@ You can visit my <a target="_blank" href="https://adminltr.github.io/">personal 
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="microsoft-excel-2019"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
 </div>
 
 <br/>
