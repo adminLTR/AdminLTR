@@ -38,11 +38,13 @@ You can visit my <a target="_blank" href="https://adminltr.github.io/">personal 
 </div>
 
 ## Languages
-<img width="48" height="48" src="https://img.icons8.com/color/48/spain2-circular.png" alt="spain2-circular"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/great-britain-circular.png" alt="great-britain-circular"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/italy-circular.png" alt="italy-circular"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/brazil-circular.png" alt="brazil-circular"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/germany-circular.png" alt="germany-circular"/>
+<div align="center">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/spain2-circular.png" alt="spain2-circular"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/great-britain-circular.png" alt="great-britain-circular"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/italy-circular.png" alt="italy-circular"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/brazil-circular.png" alt="brazil-circular"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/germany-circular.png" alt="germany-circular"/>
+</div>
 <!--
 ## My CV
 <img src="https://res.cloudinary.com/dtgzce5jh/image/upload/v1703349512/CV-_ingl%C3%A9s_1_xeyvss.png"/>
