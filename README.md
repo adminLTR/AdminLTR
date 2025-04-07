@@ -13,6 +13,11 @@ You can visit my <a target="_blank" href="https://adminltr.github.io/">personal 
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdminLTR&layout=compact&theme=dark&hide=Procfile)
 
+<div align="center">
+  <a href="https://github.com/adminLTR">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adminLTR&show_icons=true"/>
+</div>
+
 ## Languages
 - Spanish (Native)
 - English (B2)
