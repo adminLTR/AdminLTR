@@ -25,6 +25,7 @@ You can visit my <a target="_blank" href="https://adminltr.github.io/">personal 
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/>
 </div>
 
+<br/>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adminLTR&layout=compact&langs_count=7&theme=dark"/>
 </div>
