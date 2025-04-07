@@ -1,4 +1,6 @@
-<img src="./logo.png" align="center"/>
+<div align="center">
+  <img src="./logo.png"/>
+</div>
 <h1 align="center">Hi! I'm Luis La Torre 👋</h1>
 ### Welcome to my profile
 👨‍💻 Software Engineering Student | Passionate about Full Stack Development, IoT, and Mobile Development. Continuously exploring and building innovative solutions. Let's create something amazing together!
