@@ -1,6 +1,7 @@
 <div align="center">
-  <a href="https://adminltr.github.io/"></a>
-  <img src="./logo.png"/>
+  <a href="https://adminltr.github.io/">
+    <img src="./logo.png"/>
+  </a>
 </div>
 <h2 align="center">Hi! I'm Luis La Torre 👋</h2>
 <h3 >Welcome to my profile</h2>
