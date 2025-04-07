@@ -3,7 +3,10 @@
     <img src="./logo.png"/>
   </a>
 </div>
-<h2 align="center">Hi! I'm Luis La Torre 👋</h2>
+<h2 align="center">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/peru.png" alt="peru"/>
+  Hi! I'm Luis La Torre 👋
+</h2>
 <h3 >Welcome to my profile</h2>
 
 👨‍💻 Software Engineering Student | Passionate about Full Stack Development, IoT, and Mobile Development. Continuously exploring and building innovative solutions. Let's create something amazing together!
