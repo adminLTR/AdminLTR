@@ -3,10 +3,9 @@
     <img src="./logo.png"/>
   </a>
 </div>
-<p align="center">
-  <img src="https://img.icons8.com/color/48/peru.png" width="28" height="28" style="vertical-align: middle;"/>
-  <strong>Hi! I'm Luis La Torre 👋</strong>
-</p>
+<h2 align="center">
+  Hi! I'm Luis La Torre 👋
+</h2>
 
 <h3 >Welcome to my profile</h2>
 
