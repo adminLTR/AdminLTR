@@ -1,8 +1,10 @@
 <div align="center">
+  <a href="https://adminltr.github.io/"></a>
   <img src="./logo.png"/>
 </div>
-<h1 align="center">Hi! I'm Luis La Torre 👋</h1>
-### Welcome to my profile
+<h2 align="center">Hi! I'm Luis La Torre 👋</h2>
+<h3 >Welcome to my profile</h2>
+
 👨‍💻 Software Engineering Student | Passionate about Full Stack Development, IoT, and Mobile Development. Continuously exploring and building innovative solutions. Let's create something amazing together!
 You can visit my <a target="_blank" href="https://adminltr.github.io/">personal site</a>
 
