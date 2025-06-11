@@ -7,10 +7,12 @@
   Hi! I'm Luis La Torre 👋
 </h2>
 
-<h3 >Welcome to my profile</h2>
+<h3 align="center">Welcome to my profile</h2>
 
-👨‍💻 Software Engineering Student | Passionate about Full Stack Development, IoT, and Mobile Development. Continuously exploring and building innovative solutions. Let's create something amazing together!
-You can visit my <a target="_blank" href="https://adminltr.github.io/">personal site</a>
+<p align="center">
+  👨‍💻 Software Engineering Student | Passionate about Full Stack Development, IoT, and Mobile Development. Continuously exploring and building innovative solutions. Let's create something amazing together!
+  You can visit my <a target="_blank" href="https://adminltr.github.io/">personal site</a>
+</p>
 
 <div align="center">
   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
@@ -39,8 +41,11 @@ You can visit my <a target="_blank" href="https://adminltr.github.io/">personal 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adminLTR&show_icons=true&theme=dark"/>
 </div>
 
-## Languages
-<div align="start">
+<h2 align="center">
+  Languages
+</h2>
+
+<div align="center">
   <img width="48" height="48" src="https://img.icons8.com/color/48/spain2-circular.png" alt="spain2-circular"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/great-britain-circular.png" alt="great-britain-circular"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/italy-circular.png" alt="italy-circular"/>
