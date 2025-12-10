@@ -208,7 +208,7 @@ I'm a passionate software engineer specialized in creating full-stack applicatio
         <br>Native
       </td>
       <td align="center" width="100">
-        <img width="48" height="48" src="https://img.icons8.com/color/48/great-britain-circular. png" alt="English"/>
+        <img width="48" height="48" src="https://img.icons8.com/color/48/great-britain-circular. png](https://img.icons8.com/color/48/great-britain-circular.png" alt="English"/>
         <br><strong>English</strong>
         <br>Professional
       </td>
