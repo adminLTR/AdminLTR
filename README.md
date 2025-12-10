@@ -210,7 +210,7 @@ I'm a passionate software engineer specialized in creating full-stack applicatio
       <td align="center" width="100">
         <img width="48" height="48" src="https://img.icons8.com/color/48/great-britain-circular. png](https://img.icons8.com/color/48/great-britain-circular.png" alt="English"/>
         <br><strong>English</strong>
-        <br>Professional
+        <br>Intermediate
       </td>
       <td align="center" width="100">
         <img width="48" height="48" src="https://img.icons8.com/color/48/brazil-circular. png](https://img.icons8.com/color/48/brazil-circular.png" alt="Portuguese"/>
@@ -219,6 +219,11 @@ I'm a passionate software engineer specialized in creating full-stack applicatio
       </td>
       <td align="center" width="100">
         <img width="48" height="48" src="https://img.icons8.com/color/48/italy-circular.png" alt="Italian"/>
+        <br><strong>Italian</strong>
+        <br>Intermediate
+      </td>
+      <td align="center" width="100">
+        <img width="48" height="48" src="https://img.icons8.com/color/48/italy-circular.png](https://img.icons8.com/color/48/france-circular.png" alt="Italian"/>
         <br><strong>Italian</strong>
         <br>Basic
       </td>
