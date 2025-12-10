@@ -234,7 +234,7 @@ I'm a passionate software engineer specialized in creating full-stack applicatio
       </td>
       <td align="center" width="100">
         <img width="48" height="48" src="https://img.icons8.com/color/48/germany-circular.png](https://img.icons8.com/officel/80/sign-language-interpretation.png" alt="German"/>
-        <br><strong>Sign Language</strong>
+        <br><strong>PSL</strong>
         <br>Intermediate
       </td>
     </tr>
