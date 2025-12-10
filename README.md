@@ -1,71 +1,257 @@
 <div align="center">
-  <a href="https://adminltr.github.io/">
-    <img src="./logo.png"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=4789E0&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Luis+La+Torre;Software+Engineering+Student;Full+Stack+%7C+IoT+%7C+Mobile+Developer" alt="Typing SVG" />
 </div>
-<h2 align="center">
-  Hi! I'm Luis La Torre 👋
-</h2>
 
-<h3 align="center">Welcome to my profile</h2>
+<h3 align="center">🚀 Passionate about building innovative solutions</h3>
 
 <p align="center">
-  👨‍💻 Software Engineering Student | Passionate about Full Stack Development, IoT, and Mobile Development. Continuously exploring and building innovative solutions. Let's create something amazing together!
-  You can visit my <a target="_blank" href="https://adminltr.github.io/">personal site</a>
+  <a href="https://adminltr.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4789E0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/adminLTR" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/adminltr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
+---
+
+## 👨‍💻 About Me
+
+```yaml
+name: Luis La Torre
+role: Software Engineering Student
+focus: Full Stack Development, IoT, Machine Learning
+location: Peru
+currently_learning: Advanced ML & Cloud Architecture
+interests: [Web Development, IoT Systems, AI Solutions, Mobile Apps]
+```
+
+I'm a passionate software engineer specialized in creating full-stack applications, IoT systems, and intelligent solutions. I love turning complex problems into elegant, user-friendly experiences.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+</p>
+
+### Backend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+</p>
+
+### Database & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+</p>
+
+### Machine Learning & AI
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌱 PotAI - Smart Plant Irrigation System</h3>
+      <div align="center">
+        <a href="https://github.com/adminLTR/PotAI" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-4789E0?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+        <p>
+          <strong>ML-powered IoT system</strong> for automated plant irrigation using Random Forest to predict optimal water amounts based on moisture, temperature, and plant type.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+          <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎓 VocationLab - Career Guidance Platform</h3>
+      <div align="center">
+        <a href="https://github.com/adminLTR/VocationLab" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-4789E0?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+        <p>
+          <strong>AI-powered vocational guidance</strong> platform helping students discover their ideal career path through intelligent chat and comprehensive university data.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=openai&logoColor=white"/>
+        </p>
+      </div>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%">
+      <h3 align="center">🕶️ SpeakUp - Smart Glasses for Communication</h3>
+      <div align="center">
+        <a href="https://github.com/adminLTR/SpeakUp" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-4789E0?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+        <p>
+          <strong>IoT device</strong> with Arduino and sensor integration for assistive communication technology.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+          <img src="https://img.shields.io/badge/IoT-0084FF?style=flat-square&logo=iot&logoColor=white"/>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔍 SmartGlasses - OCR Detection System</h3>
+      <div align="center">
+        <a href="https://github.com/adminLTR/SmartGlasses" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-4789E0?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+        <p>
+          <strong>Computer Vision system</strong> using TensorFlow for object detection and OCR text extraction from images.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00? style=flat-square&logo=tensorflow&logoColor=white"/>
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚦 Q-Learning Traffic Control</h3>
+      <div align="center">
+        <a href="https://github.com/adminLTR/QLearning" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-4789E0?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+        <p>
+          <strong>Reinforcement Learning</strong> system for intelligent traffic light control using Q-Learning algorithms.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E? style=flat-square&logo=javascript&logoColor=black"/>
+          <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Q--Learning-4285F4?style=flat-square"/>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🗑️ SmartTachito - Smart Waste Management</h3>
+      <div align="center">
+        <a href="https://github.com/adminLTR/SmartTachito" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-4789E0? style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+        <p>
+          <strong>IoT solution</strong> for intelligent waste management with real-time monitoring and automated alerts.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+          <img src="https://img.shields.io/badge/IoT-0084FF?style=flat-square"/>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
-  <img width="48" height="48" src="https://img.icons8.com/office/40/react.png" alt="react"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png" alt="external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-shadow-tal-revivo.png" alt="external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-shadow-tal-revivo"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/laravel.png" alt="laravel"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/arduino.png" alt="arduino"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="microsoft-excel-2019"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
-  <img width="48" height="48" src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adminLTR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adminLTR&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-<br/>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adminLTR&layout=compact&langs_count=8&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adminLTR&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adminLTR&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<h2 align="center">
-  Languages
-</h2>
+---
+
+## 🌍 Languages
 
 <div align="center">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/spain-circular--v1.png" alt="spain-circular--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/great-britain-circular.png" alt="great-britain-circular"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/italy-circular.png" alt="italy-circular"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/brazil-circular.png" alt="brazil-circular"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/germany-circular.png" alt="germany-circular"/>
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img width="48" height="48" src="https://img.icons8.com/color/48/spain-circular--v1.png" alt="Spanish"/>
+        <br><strong>Spanish</strong>
+        <br>Native
+      </td>
+      <td align="center" width="100">
+        <img width="48" height="48" src="https://img.icons8.com/color/48/great-britain-circular. png" alt="English"/>
+        <br><strong>English</strong>
+        <br>Professional
+      </td>
+      <td align="center" width="100">
+        <img width="48" height="48" src="https://img.icons8.com/color/48/brazil-circular. png" alt="Portuguese"/>
+        <br><strong>Portuguese</strong>
+        <br>Intermediate
+      </td>
+      <td align="center" width="100">
+        <img width="48" height="48" src="https://img.icons8.com/color/48/italy-circular.png" alt="Italian"/>
+        <br><strong>Italian</strong>
+        <br>Basic
+      </td>
+      <td align="center" width="100">
+        <img width="48" height="48" src="https://img.icons8.com/color/48/germany-circular.png" alt="German"/>
+        <br><strong>German</strong>
+        <br>Basic
+      </td>
+    </tr>
+  </table>
 </div>
-<!--
-## My CV
-<img src="https://res.cloudinary.com/dtgzce5jh/image/upload/v1703349512/CV-_ingl%C3%A9s_1_xeyvss.png"/>
 
-**LTprograms/LTprograms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🤝 Let's Connect! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <p>I'm always open to collaborating on innovative projects and ideas. Feel free to reach out!</p>
+  
+  <a href="https://adminltr.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4789E0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:luislatorre@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=adminLTR&color=4789E0&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4789E0&height=100&section=footer"/>
+</div>
