@@ -213,7 +213,7 @@ I'm a passionate software engineer specialized in creating full-stack applicatio
         <br>Professional
       </td>
       <td align="center" width="100">
-        <img width="48" height="48" src="https://img.icons8.com/color/48/brazil-circular. png" alt="Portuguese"/>
+        <img width="48" height="48" src="https://img.icons8.com/color/48/brazil-circular. png](https://img.icons8.com/color/48/brazil-circular.png" alt="Portuguese"/>
         <br><strong>Portuguese</strong>
         <br>Intermediate
       </td>
