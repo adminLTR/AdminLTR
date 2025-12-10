@@ -11,7 +11,7 @@
   <a href="https://github.com/adminLTR" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/adminltr" target="_blank">
+  <a href="https://linkedin.com/in/adminltr](https://www.linkedin.com/in/jose-luis-la-torre-romero-7bb5442a6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
