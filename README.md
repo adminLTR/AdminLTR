@@ -224,13 +224,18 @@ I'm a passionate software engineer specialized in creating full-stack applicatio
       </td>
       <td align="center" width="100">
         <img width="48" height="48" src="https://img.icons8.com/color/48/italy-circular.png](https://img.icons8.com/color/48/france-circular.png" alt="Italian"/>
-        <br><strong>Italian</strong>
+        <br><strong>French</strong>
         <br>Basic
       </td>
       <td align="center" width="100">
         <img width="48" height="48" src="https://img.icons8.com/color/48/germany-circular.png" alt="German"/>
         <br><strong>German</strong>
         <br>Basic
+      </td>
+      <td align="center" width="100">
+        <img width="48" height="48" src="https://img.icons8.com/color/48/germany-circular.png](https://img.icons8.com/officel/80/sign-language-interpretation.png" alt="German"/>
+        <br><strong>Sign Language</strong>
+        <br>Intermediate
       </td>
     </tr>
   </table>
