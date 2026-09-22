@@ -113,69 +113,37 @@ Final-year Software Engineering student with experience in the development of Io
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🌱 PotAI - Smart Plant Irrigation System</h3>
+      <h3 align="center">🏍️ Motoworld — E-commerce Platform</h3>
       <div align="center">
-        <a href="https://github.com/adminLTR/PotAI" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-4789E0?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        <a href="https://github.com/dhumtechnology/Motorsworld-Ecommerce" target="_blank">
+          <img src="https://img.shields.io/badge/SOURCE_CODE-4789E0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
+        <a href="https://motoworld.pe" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE_SITE-4789E0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live"/>
+        </a>
+        <p><strong>Professional</strong> — E-commerce for motorcycles and accessories, built with Laravel and MySQL (MVC), with an integrated payment gateway.</p>
         <p>
-          <strong>ML-powered IoT system</strong> for automated plant irrigation using Random Forest to predict optimal water amounts based on moisture, temperature, and plant type.
+          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MVC-4789E0?style=flat-square"/>
         </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧩 Jigsaw Model — Computer Vision</h3>
+      <div align="center">
+        <a href="https://github.com/adminLTR/Patches-To-Images" target="_blank">
+          <img src="https://img.shields.io/badge/SOURCE_CODE-4789E0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+        <a href="https://adminltr.github.io/Patches-To-Images/" target="_blank">
+          <img src="https://img.shields.io/badge/DEMO-4789E0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"/>
+        </a>
+        <p><strong>Product</strong> — Deep Learning model that rebuilds a full image from nine scrambled, eroded puzzle pieces using jigsaw-solving and inpainting.</p>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-          <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎓 VocationLab - Career Guidance Platform</h3>
-      <div align="center">
-        <a href="https://github.com/adminLTR/VocationLab" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-4789E0?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-        </a>
-        <p>
-          <strong>AI-powered vocational guidance</strong> platform helping students discover their ideal career path through intelligent chat and comprehensive university data.
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-          <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=openai&logoColor=white"/>
-        </p>
-      </div>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%">
-      <h3 align="center">🕶️ SpeakUp - Smart Glasses for Communication</h3>
-      <div align="center">
-        <a href="https://github.com/adminLTR/SpeakUp" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-4789E0?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-        </a>
-        <p>
-          <strong>IoT device</strong> with Arduino and sensor integration for assistive communication technology.
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-          <img src="https://img.shields.io/badge/IoT-0084FF?style=flat-square&logo=iot&logoColor=white"/>
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔍 SmartGlasses - OCR Detection System</h3>
-      <div align="center">
-        <a href="https://github.com/adminLTR/SmartGlasses" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-4789E0?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-        </a>
-        <p>
-          <strong>Computer Vision system</strong> using TensorFlow for object detection and OCR text extraction from images.
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00? style=flat-square&logo=tensorflow&logoColor=white"/>
-          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Computer_Vision-4789E0?style=flat-square"/>
         </p>
       </div>
     </td>
@@ -183,34 +151,52 @@ Final-year Software Engineering student with experience in the development of Io
 
   <tr>
     <td width="50%">
-      <h3 align="center">🚦 Q-Learning Traffic Control</h3>
+      <h3 align="center">📱 CacaoLens — Mobile + Edge AI</h3>
       <div align="center">
-        <a href="https://github.com/adminLTR/QLearning" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-4789E0?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        <a href="https://github.com/adminLTR/CacaoLens" target="_blank">
+          <img src="https://img.shields.io/badge/SOURCE_CODE-4789E0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
+        <a href="https://github.com/adminLTR/CacaoLens/releases/tag/v1.0.0" target="_blank">
+          <img src="https://img.shields.io/badge/RELEASE_v1.0.0-4789E0?style=for-the-badge&logo=github&logoColor=white" alt="Release"/>
+        </a>
+        <p><strong>Product</strong> — Flutter app that classifies cacao fruits into three categories with an embedded InceptionV3-based model for offline inference.</p>
         <p>
-          <strong>Reinforcement Learning</strong> system for intelligent traffic light control using Q-Learning algorithms.
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E? style=flat-square&logo=javascript&logoColor=black"/>
-          <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Q--Learning-4285F4?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🗑️ SmartTachito - Smart Waste Management</h3>
+      <h3 align="center">🌱 PotAI — Smart Irrigation</h3>
       <div align="center">
-        <a href="https://github.com/adminLTR/SmartTachito" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-4789E0? style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        <a href="https://github.com/adminLTR/PotAI" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-4789E0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
+        <p><strong>Product</strong> — IoT irrigation with Machine Learning: RandomForest regression estimates water needs from pot sensor readings.</p>
         <p>
-          <strong>IoT solution</strong> for intelligent waste management with real-time monitoring and automated alerts.
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+          <img src="https://img.shields.io/badge/IoT-4789E0?style=flat-square"/>
         </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" colspan="2">
+      <h3 align="center">🎓 Eneisoft — ENEISOFT 2024 Official Website</h3>
+      <div align="center">
+        <a href="https://eneisoft.org/" target="_blank">
+          <img src="https://img.shields.io/badge/VISIT_SITE-4789E0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+        </a>
+        <p><strong>Community</strong> — Official website for ENEISOFT 2024 (National Meeting of Software Engineering Students).</p>
         <p>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-          <img src="https://img.shields.io/badge/IoT-0084FF?style=flat-square"/>
+          <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         </p>
       </div>
     </td>
