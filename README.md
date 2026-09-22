@@ -121,7 +121,7 @@ Final-year Software Engineering student with experience in the development of Io
         <a href="https://motoworld.pe" target="_blank">
           <img src="https://img.shields.io/badge/LIVE_SITE-4789E0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live"/>
         </a>
-        <p><strong>Professional</strong> — E-commerce for motorcycles and accessories, built with Laravel and MySQL (MVC), with an integrated payment gateway.</p>
+        <p>E-commerce for motorcycles and accessories, built with Laravel and MySQL (MVC), with an integrated payment gateway.</p>
         <p>
           <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -139,7 +139,7 @@ Final-year Software Engineering student with experience in the development of Io
         <a href="https://adminltr.github.io/Patches-To-Images/" target="_blank">
           <img src="https://img.shields.io/badge/DEMO-4789E0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"/>
         </a>
-        <p><strong>Product</strong> — Deep Learning model that rebuilds a full image from nine scrambled, eroded puzzle pieces using jigsaw-solving and inpainting.</p>
+        <p>Deep Learning model that rebuilds a full image from nine scrambled, eroded puzzle pieces using jigsaw-solving and inpainting.</p>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
           <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -159,7 +159,7 @@ Final-year Software Engineering student with experience in the development of Io
         <a href="https://github.com/adminLTR/CacaoLens/releases/tag/v1.0.0" target="_blank">
           <img src="https://img.shields.io/badge/RELEASE_v1.0.0-4789E0?style=for-the-badge&logo=github&logoColor=white" alt="Release"/>
         </a>
-        <p><strong>Product</strong> — Flutter app that classifies cacao fruits into three categories with an embedded InceptionV3-based model for offline inference.</p>
+        <p>Flutter app that classifies cacao fruits into three categories with an embedded InceptionV3-based model for offline inference.</p>
         <p>
           <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
           <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
@@ -173,7 +173,7 @@ Final-year Software Engineering student with experience in the development of Io
         <a href="https://github.com/adminLTR/PotAI" target="_blank">
           <img src="https://img.shields.io/badge/VIEW_PROJECT-4789E0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
-        <p><strong>Product</strong> — IoT irrigation with Machine Learning: RandomForest regression estimates water needs from pot sensor readings.</p>
+        <p>IoT irrigation with Machine Learning: RandomForest regression estimates water needs from pot sensor readings.</p>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
           <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
@@ -191,7 +191,7 @@ Final-year Software Engineering student with experience in the development of Io
         <a href="https://eneisoft.org/" target="_blank">
           <img src="https://img.shields.io/badge/VISIT_SITE-4789E0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
         </a>
-        <p><strong>Community</strong> — Official website for ENEISOFT 2024 (National Meeting of Software Engineering Students).</p>
+        <p>Official website for ENEISOFT 2024 (National Meeting of Software Engineering Students).</p>
         <p>
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
@@ -207,10 +207,10 @@ Final-year Software Engineering student with experience in the development of Io
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adminLTR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adminLTR&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adminLTR&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -272,13 +272,9 @@ Final-year Software Engineering student with experience in the development of Io
   <a href="https://adminltr.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4789E0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:luislatorre@example.com">
+  <a href="mailto:joselatorre143351@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=adminLTR&color=4789E0&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 ---
