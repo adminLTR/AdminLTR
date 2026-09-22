@@ -23,13 +23,11 @@
 ```yaml
 name: Luis La Torre
 role: Software Engineering Student
-focus: Full Stack Development, IoT, Machine Learning
+focus: IoT, Embbeded Systems, AI, Fullstack
 location: Peru
-currently_learning: Advanced ML & Cloud Architecture
-interests: [Web Development, IoT Systems, AI Solutions, Mobile Apps]
 ```
 
-I'm a passionate software engineer specialized in creating full-stack applications, IoT systems, and intelligent solutions. I love turning complex problems into elegant, user-friendly experiences.
+Estudiante de último año de Ingeniería de Software con experiencia en desarrollo de sistemas IoT y soluciones de Inteligencia Artificial. Experiencia práctica desarrollando prototipos con ESP32, visión computacional y Machine Learning, integrando dispositivos físicos con servicios backend mediante APIs REST. Experiencia adicional en Python, C/C++, TensorFlow y desarrollo de sistemas distribuidos.
 
 ---
 
