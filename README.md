@@ -27,7 +27,7 @@ focus: IoT, Embbeded Systems, AI, Fullstack
 location: Peru
 ```
 
-Estudiante de último año de Ingeniería de Software con experiencia en desarrollo de sistemas IoT y soluciones de Inteligencia Artificial. Experiencia práctica desarrollando prototipos con ESP32, visión computacional y Machine Learning, integrando dispositivos físicos con servicios backend mediante APIs REST. Experiencia adicional en Python, C/C++, TensorFlow y desarrollo de sistemas distribuidos.
+Final-year Software Engineering student with experience in the development of IoT systems and Artificial Intelligence solutions. Hands-on experience developing prototypes with ESP32, computer vision, and Machine Learning, integrating physical devices with backend services through REST APIs. Additional experience in Python, C/C++, TensorFlow, and distributed systems development.
 
 ---
 
