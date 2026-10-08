@@ -216,13 +216,6 @@ Final-year Software Engineering student with experience in the development of Io
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adminLTR&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<p align="center">
-  <a href="https://github.com/LuizIgnacio2002">
-    <img height="182em" src="https://github-readme-stats.vercel.app/api?username=LuizIgnacio2002&card_width=100&locale=en&show_icons=true&theme=dark"/>
-    <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizIgnacio2002&theme=dark&layout=compact&hide=c%2B%2B,jupyter%20notebook"/>
-  </a>
-</p>
-
 ---
 
 ## 🌍 Languages
