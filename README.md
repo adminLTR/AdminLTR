@@ -207,10 +207,10 @@ Final-year Software Engineering student with experience in the development of Io
 
 ## 📊 GitHub Statistics
 
-<!-- <div align="center">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adminLTR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adminLTR&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div> -->
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adminLTR&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
